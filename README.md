@@ -92,8 +92,38 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 */
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![Uploading image.png…]()
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/7739ff31-fef8-4f34-8c87-585a57a88192)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/aad8cdc4-a792-4849-83fd-cbe34de30b25)
+
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/7adf4de4-ae75-4b47-90c5-b28495b39fa8)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/17fc7934-c1cb-43d0-86da-368cea0eea7f)
+
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/40b87c44-cf69-4657-b075-99e0c85fa0eb)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/fffbed93-8031-4f67-91ac-9ec19560663f)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/cb305b0b-2ec1-4d36-8641-c93fec2f969a)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/1f0f866c-d427-4e84-916b-7efe7ea7e2a2)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/aa254c36-3140-462f-87b4-0bf12e8db9e0)
+
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/1d9052be-3a5a-4ce6-96d4-941314a7bbbe)
+
+
+
+
+
+
+
+
+
+
 
 
 ## Result:
