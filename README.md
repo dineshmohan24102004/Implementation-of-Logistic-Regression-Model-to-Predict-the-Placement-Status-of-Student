@@ -93,7 +93,7 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
  Output:
 
-![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/7739ff31-fef8-4f34-8c87-585a57a88192)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/aff9831a-1c7b-4891-bf2e-17daa68b980f)
 
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/aad8cdc4-a792-4849-83fd-cbe34de30b25)
 
