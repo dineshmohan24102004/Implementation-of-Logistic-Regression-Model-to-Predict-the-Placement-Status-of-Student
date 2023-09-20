@@ -90,6 +90,7 @@ clf.score(x_test,y_test)
 clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
 */
+```
 
  Output:
 
