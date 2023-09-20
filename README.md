@@ -91,7 +91,7 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
 */
 
-## Output:
+ Output:
 
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119478475/7739ff31-fef8-4f34-8c87-585a57a88192)
 
@@ -126,5 +126,5 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
 
 
-## Result:
+ Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
